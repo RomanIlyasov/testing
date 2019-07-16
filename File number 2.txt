@@ -1,0 +1,6 @@
+public class EmailValidator {
+
+	public static void main(String[] args) {
+		String email = "eqweqe@mail.ru";
+		boolean result = email.matches("\\S*@\\S*");
+		System.out.println(result);
