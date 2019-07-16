@@ -1,6 +1,6 @@
 public class EmailValidator { 999999
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 99999
 		String email = "eqweqe@mail.ru";
 		boolean result = email.matches("\\S*@\\S*");
 		System.out.println(result);
