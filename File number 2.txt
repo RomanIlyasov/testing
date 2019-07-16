@@ -1,4 +1,4 @@
-public class EmailValidator {
+public class EmailValidator { 999999
 
 	public static void main(String[] args) {
 		String email = "eqweqe@mail.ru";
